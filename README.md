@@ -1,3 +1,5 @@
+## Instructions
+
 Create a git project with a single python script that reads the PM data (https://datasets.simula.no/pmdata/) and generates a single a csv file containing the following columns:
 
 
@@ -10,3 +12,9 @@ Create a git project with a single python script that reads the PM data (https:/
 
 
 PM data and output csv should not be part of the git project.
+
+## Getting the data
+
+Raw data is available at (https://datasets.simula.no/pmdata/) as zip file. 
+Unzip it and save it in a folder called `raw_data` in the root of the project.
+
